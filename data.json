@@ -1,4 +1,4 @@
 {
-  "name": "salt"
-  "task" : ["gelato", "weekend-test"]
+  "name": "salt",
+  "task" : ["gelato", "weekend-test", "brush teeth"]
 }
