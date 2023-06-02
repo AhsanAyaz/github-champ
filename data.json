@@ -1,4 +1,5 @@
 {
   "name": "salt",
-  "task" : ["gelato", "weekend-test", "brush teeth"]
+  "task" : ["gelato", "weekend-test", "brush teeth"],
+  "author": "Ahsan"
 }
